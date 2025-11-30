@@ -1,4 +1,0 @@
-bin/
-obj/
-models/*.onnx
-*.DS_Store
