@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vladyslav.husenko/RiderProjects/MedicalImageProcessor/MedicalImageProcessor.Core/MedicalImageProcessor.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/vladyslav.husenko/RiderProjects/MedicalImageProcessor/MedicalImageProcessor.Core/MedicalImageProcessor.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladyslav.husenko/RiderProjects/MedicalImageProcessor/MedicalImageProcessor.Core/MedicalImageProcessor.Core.csproj",
+        "projectName": "MedicalImageProcessor.Core",
+        "projectPath": "/Users/vladyslav.husenko/RiderProjects/MedicalImageProcessor/MedicalImageProcessor.Core/MedicalImageProcessor.Core.csproj",
+        "packagesPath": "/Users/vladyslav.husenko/.nuget/packages/",
+        "outputPath": "/Users/vladyslav.husenko/RiderProjects/MedicalImageProcessor/MedicalImageProcessor.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vladyslav.husenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/vladyslav.husenko/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
